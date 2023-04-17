@@ -1,3 +1,3 @@
-TOKEN = '5994128099:AAEz1VYsCFD0-ylUcL-ZbcfbpAkjELSDqC0'
+TOKEN = '' #bot Token
 
-KASSA = '1744374395:TEST:cfb8fc7e3875cab48851'
+KASSA = '' #pay Token
